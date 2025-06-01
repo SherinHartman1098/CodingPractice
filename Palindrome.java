@@ -1,4 +1,7 @@
-
+/*Check for Palindrome
+	•	Problem: Determine if a given string is a palindrome.
+	•	Example: Input: "racecar" → Output: true
+	//•	Concepts: String manipulation, two-pointer technique. */
 import java.util.*;
 
 public class Palindrome {

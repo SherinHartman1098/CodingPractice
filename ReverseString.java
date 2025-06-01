@@ -1,3 +1,8 @@
+/*.	Reverse a String
+	•	Problem: Write a function that reverses a given string.
+	•	Example: Input: "hello" → Output: "olleh"
+	•	Concepts: String manipulation, two-pointer technique.  */
+
 import java.util.Stack;
 
 public class ReverseString {
