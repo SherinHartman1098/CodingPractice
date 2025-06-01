@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class palindrome {
+public class ReverseString {
     public static void main(String []args){
         String s="Hello";
         char c[]=s.toCharArray();
