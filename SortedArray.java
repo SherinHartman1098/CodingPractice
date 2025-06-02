@@ -25,16 +25,5 @@ public class SortedArray {
         Arrays.sort(merger);
         System.out.println(Arrays.toString(merger));
     }
-    // public void mergeArrays(int[] arr1, int []arr2){
-          
-    // int [] merger= new int[n1+n2];
-    // for(int i=0;i<merger.length;i++){
-    //     merger[i]+=arr1[i];
-    //     merger[i]+=arr2[i];
-    // }
     
-    // for(int j=0;j<merger.length;j++){
-    //     System.out.print(merger[j]);
-    // }
-    // }
 }
